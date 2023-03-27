@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "./static/css/main.bf58114d.css",
-    "main.js": "./static/js/main.b49977bc.js",
+    "main.css": "./static/css/main.14845853.css",
+    "main.js": "./static/js/main.9cd31583.js",
     "static/js/787.1859d386.chunk.js": "./static/js/787.1859d386.chunk.js",
     "static/media/logo+doo+white2048-1920w.png": "./static/media/logo+doo+white2048-1920w.42ec47c3ab5a3090fbb5.png",
     "service-worker.js": "./service-worker.js",
     "index.html": "./index.html",
-    "main.bf58114d.css.map": "./static/css/main.bf58114d.css.map",
-    "main.b49977bc.js.map": "./static/js/main.b49977bc.js.map",
+    "main.14845853.css.map": "./static/css/main.14845853.css.map",
+    "main.9cd31583.js.map": "./static/js/main.9cd31583.js.map",
     "787.1859d386.chunk.js.map": "./static/js/787.1859d386.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.bf58114d.css",
-    "static/js/main.b49977bc.js"
+    "static/css/main.14845853.css",
+    "static/js/main.9cd31583.js"
   ]
 }
